@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohan Encarnacion</h1>
-<h3 align="center">I'm student and frontend developer, whose currently living in New York City</h3>
+<h3 align="center">I'm student and web developer, whose currently living in New York City</h3>
 
 - 🔭 I’m currently working on [se_project_spots](https://noname2700.github.io/se_project_spots/)
 
