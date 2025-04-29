@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohan Encarnacion</h1>
 <h3 align="center">I'm student and web developer, whose currently living in New York City.</h3>
 
-<p>Im currently enrolled in a 10 months software engineering online Bootcamp program. I started in  December 2024 during my leaning journey i work on curricullum that provides a wide range of projects based on the following Full Stack Development technologies: BEM, Media queries, transition, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP,HTML5, CSS3, flexbox, grid layout, and JavaScript. </p>
+<p>Im currently enrolled in a 10 months software engineering online Bootcamp program. I started in December 2024, During my journey i have worked on curricullums that provide a wide range of projects based on the following Full Stack Development technologies: BEM, Media queries, transition, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP,HTML5, CSS3, flexbox, grid layout, and JavaScript. </p>
 
 - 🔭 I’m currently working on [se_project_spots](https://noname2700.github.io/se_project_spots/)
 
